@@ -1,0 +1,73 @@
+{
+  "origin": "https://tsquinrose.com",
+  "capturedAt": "2026-11-10T21:20:48.951Z",
+  "sourceSha": "93a8ff105ac8c2a538fb00e1bb0417c0bf19e5e9",
+  "passes": [
+    {
+      "device": "iPhone 13",
+      "pages": 2
+    },
+    {
+      "device": "Desktop Chrome",
+      "pages": 2
+    }
+  ],
+  "pages": [
+    "/"
+  ],
+  "redirects": {
+    "/drops": "/"
+  },
+  "missing": [
+    {
+      "path": "/drops-data/latest.json",
+      "status": 404
+    }
+  ],
+  "changedDuringCrawl": [],
+  "liveAbsent": [
+    "/drops-data/latest.json"
+  ],
+  "files": [
+    {
+      "path": "/",
+      "file": "index.html",
+      "kind": "page",
+      "contentType": "text/html",
+      "bytes": 12951,
+      "sha256": "2142706886548b67f1d30897fbd1949826ba9f62acd96bcb7b718816860bd6bc"
+    },
+    {
+      "path": "/brand/tqr-banner-2609.png",
+      "file": "brand/tqr-banner-2609.png",
+      "kind": "file",
+      "contentType": "image/png",
+      "bytes": 152806,
+      "sha256": "c78cca69ea64de9a881c1c8c1bb6f65af49ee30273870d0923ff07ab2f0f8f46"
+    },
+    {
+      "path": "/brand/tqr-headshot-260924.jpg",
+      "file": "brand/tqr-headshot-260924.jpg",
+      "kind": "file",
+      "contentType": "image/jpeg",
+      "bytes": 311792,
+      "sha256": "c53c1421ef0467d815bb033da519f8255c7e2356a9d1f838cb76b875748575aa"
+    },
+    {
+      "path": "/brand/tqr-icon-180.png",
+      "file": "brand/tqr-icon-180.png",
+      "kind": "file",
+      "contentType": "image/png",
+      "bytes": 54419,
+      "sha256": "40c8b4b032a153ee5bd38b6cf783c63a003a1c48e4acdc02afa02a1913d33924"
+    },
+    {
+      "path": "/brand/tqr-icon-48.png",
+      "file": "brand/tqr-icon-48.png",
+      "kind": "file",
+      "contentType": "image/png",
+      "bytes": 5649,
+      "sha256": "b109c5209df618610518370d0061330fd098a1fac4a02d69fa8313f7ad763cb0"
+    }
+  ]
+}
